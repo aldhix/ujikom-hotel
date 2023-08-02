@@ -1,5 +1,5 @@
 # Ujikom Hotel Pangandaran
-Aplikasi reservasi sederhana untuk Ujikom 2021
+Aplikasi reservasi Hotel sederhana
 
 ## Install
 Download AdminLTE versi 3, copy folder **dist** dan **plugins**.
